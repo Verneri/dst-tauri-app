@@ -1,0 +1,3 @@
+[submodule "domain-story-modeler"]
+	path = domain-story-modeler
+	url = https://github.com/Verneri/domain-story-modeler.git
